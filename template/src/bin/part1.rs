@@ -1,5 +1,5 @@
 fn main() {
-    println!("hello from part 2");
+    println!("hello from part 1");
 }
 
 
