@@ -5,3 +5,10 @@ version = 3
 [[package]]
 name = "aoc2023"
 version = "0.1.0"
+
+[[package]]
+name = "aoc2023_template"
+version = "0.1.0"
+dependencies = [
+ "aoc2023",
+]
